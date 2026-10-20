@@ -10,8 +10,8 @@ const productDetails: Omit<Product, "shades">[] = [
     price: "IDR 00.000",
     size: "5 g",
     image: "/product-pages/thumbnail-card/thumbnail-card-stellar.jpg",
-    description: "Hybrid lip emulsion with rich one-swipe coverage, long-lasting transfer-proof color, and comfortable hydration.",
-    claims: ["High shine", "12H long-lasting", "Transfer-proof"],
+    description: "Emulsión labial híbrida con cobertura intensa desde la primera pasada, color duradero que no se transfiere e hidratación cómoda.",
+    claims: ["Brillo intenso", "Hasta 12 horas", "No se transfiere"],
     swatchSlides: [
       "/swatches/swatches-lips/swatches-stellar/swatches-stellar-1.jpg",
       "/swatches/swatches-lips/swatches-stellar/swatches-stellar-2.jpg",
